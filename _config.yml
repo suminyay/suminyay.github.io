@@ -23,7 +23,7 @@ repository               : "suminyay/suminyay.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Sumin"
   pronouns         : # example: "she/her"  
   location         : "Seoul, South Korea"
